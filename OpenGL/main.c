@@ -28,7 +28,7 @@ const char *fragment_shader_str =
     "}\0";
 
 /**
- * Function that maps an 8 byte hex color value to a floating
+ * Function that maps a single byte hex color value to a floating
  * point number between 0 and 1.
  *
  *
