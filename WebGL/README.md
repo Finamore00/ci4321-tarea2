@@ -1,4 +1,4 @@
-# Demo WebGL
+# Demo WebGL (Santiago Finamore - 1810125)
 
 ## Entorno y Librerías
 

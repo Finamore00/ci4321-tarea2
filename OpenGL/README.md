@@ -1,4 +1,4 @@
-# Demo OpenGL
+# Demo OpenGL (Santiago Finamore - 1810125)
 
 ## Entorno y Librerías
 

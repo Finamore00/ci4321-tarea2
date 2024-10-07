@@ -1,4 +1,4 @@
-# Demo Three.js
+# Demo Three.js (Santiago Finamore - 1810125)
 
 ## Entorno y Librerías
 
